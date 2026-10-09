@@ -185,10 +185,10 @@ When `findByIdAndUpdate` silently ignored invalid categories during testing, Cod
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./client/screenshots/Dashboard.png)
 
 ### Analytics & Charts
-![Screen](./screenshots/Screen.png)
+![Screen](./client/screenshots/Screen.png)
 ## 📄 License
 
 This project is open source and available under the MIT License.
